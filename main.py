@@ -29,6 +29,7 @@ st.markdown("""
             .element-container{
             margin-top:20px;
             }
+            
         .header {
             font-family: 'Segoe UI', sans-serif;
             text-align: center;
